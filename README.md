@@ -1,2 +1,2 @@
 # Hospital-medicine-management
-Hospital medicine management ub c shark and mysql
+Hospital medicine management using c shark and mysql
